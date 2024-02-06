@@ -27,7 +27,7 @@ Visit the live site: (https://bankaccountmanagementjitesh.netlify.app/)
 
 1. Clone the repository:
 ```
-https://github.com/mohitrajput2002/Banking-App.git
+gh repo clone jiteshbamnawat/Bank-Account-Management
 ```
 2. Open the project folder in your code editor.
 3. Open index.html in your web browser to use the application.
