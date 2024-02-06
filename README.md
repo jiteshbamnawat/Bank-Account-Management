@@ -1,7 +1,7 @@
 # Banking-App
 The Banking App is a web-based financial management application, featuring account creation, deposits, withdrawals, and balance inquiries. It leverages HTML, CSS, and JavaScript to provide users with a simple and intuitive banking experience.
 
-Visit the live site: https://mr-banking-app.netlify.app/
+Visit the live site: (https://bankaccountmanagementjitesh.netlify.app/)
 
 ## Features
 
